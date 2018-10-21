@@ -1,1 +1,1 @@
-This is Recommendation system built in specific to student Examination Data. It is used to suggest questions to the PHP sever which generates questions to students who are logged into the System.
+This is Recommendation system built in specific to student Examination Data. It is used to suggest questions to the PHP sever which generates questions to students who are logged into the Application.
